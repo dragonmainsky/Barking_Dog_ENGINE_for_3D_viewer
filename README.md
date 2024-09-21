@@ -2,11 +2,14 @@
 
 <br />
 <div align="center">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/127975405/369618602-f5ee7a2c-9442-4280-89e7-3a88ac6ee64a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240921%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240921T123836Z&X-Amz-Expires=300&X-Amz-Signature=fb79b43950ff91f845e0d72f537488c8f3497da70ce50bfce2073a5358c8e590&X-Amz-SignedHeaders=host">
+    <img src="https://github.com/user-attachments/assets/c9b13638-13e4-4f9b-9746-77341a498b5f">
 </div>
 
 
 ## Features
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/7d17ac5e-ff13-414e-afe4-d1290281d028">
+</div>
 
 - **ImGui Integration:** UI for model importing, zooming, docking and etc.
 - **Model Loading:** Load 3D models and textures with automatic texture management.
