@@ -15,6 +15,8 @@
 - **Model Loading:** Load 3D models and textures with automatic texture management.
 - **Skybox Rendering:** Render 3D environments using skyboxes.
 
+**Warning:This is Early Access, may have a bug or your model is weird or something**
+
 ## Requirements
 - **OpenGL 4.6** or later
 
@@ -46,6 +48,7 @@
    Use the scroll wheel or ImGui zoom controls to adjust the scene view.
    
 **Features: animation, other Types of 3D File Formats and other features are being developed**
+
 
 
 ## Acknowledgments
