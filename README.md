@@ -9,12 +9,7 @@
 - **Skybox Rendering:** Render 3D environments using skyboxes.
 
 ## Requirements
-
-- **C++17** or later
 - **OpenGL 4.6** or later
-- **GLFW 3.3** or later
-- **ImGui** for graphical interface
-- **MinGW** for Windows (or equivalent compiler)
 
 ## Installation
 
