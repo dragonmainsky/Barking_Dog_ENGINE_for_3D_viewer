@@ -15,7 +15,7 @@
 - **Model Loading:** Load 3D models and textures with automatic texture management.
 - **Skybox Rendering:** Render 3D environments using skyboxes.
 
-**Warning: This is Early Access, may have a bug or your model is weird or something**
+**Warning: This is Early Access, may have a bug or your model is weird**
 
 ## Requirements
 - **OpenGL 4.6** or later
