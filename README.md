@@ -33,3 +33,19 @@
     ```bash
     ./main.exe
     ```
+
+
+## Usage
+
+1. **Loading Models:** 
+   You can load models through the ImGui interface. Ensure that models and textures are placed in the respective directories (`models/`, `textures/`).
+
+3. **Zooming:**
+   Use the scroll wheel or ImGui zoom controls to adjust the scene view.
+**Features: animation, other Types of 3D File Formats and other features are being developed**
+
+
+## Acknowledgments
+
+- [GLFW](https://www.glfw.org/)
+- [Dear ImGui](https://github.com/ocornut/imgui)
