@@ -125,7 +125,7 @@ int main()
     
     // (optional) set browser properties
     fileDialog.SetTitle("title");
-    fileDialog.SetTypeFilters({ ".gltf", ".obj" });
+    fileDialog.SetTypeFilters({ ".gltf"});
 
     unsigned int rectVAO, rectVBO;
     glGenVertexArrays(1, &rectVAO);
