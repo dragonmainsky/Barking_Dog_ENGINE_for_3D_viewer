@@ -4,7 +4,7 @@
 
 ## Features
 
-- **ImGui Integration:** UI for model importing, zooming, and docking.
+- **ImGui Integration:** UI for model importing, zooming, docking and etc.
 - **Model Loading:** Load 3D models and textures with automatic texture management.
 - **Skybox Rendering:** Render 3D environments using skyboxes.
 
