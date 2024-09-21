@@ -42,6 +42,7 @@
 
 3. **Zooming:**
    Use the scroll wheel or ImGui zoom controls to adjust the scene view.
+   
 **Features: animation, other Types of 3D File Formats and other features are being developed**
 
 
