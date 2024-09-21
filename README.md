@@ -1,5 +1,9 @@
 # Barking Dog ENGINE 3D viewer (Early Access)
 
+<br />
+<div align="center">
+    <img src="https://i.imgur.com/Hf0VuQS.png">
+</div>
 
 
 ## Features
