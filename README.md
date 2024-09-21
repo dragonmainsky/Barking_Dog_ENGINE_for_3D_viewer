@@ -38,7 +38,7 @@
 ## Usage
 
 1. **Loading Models:** 
-   You can load models through the ImGui interface. Ensure that models and textures are placed in the respective directories (`models/`, `textures/`).
+   You can load models through the ImGui interface. (glTF)
 
 3. **Zooming:**
    Use the scroll wheel or ImGui zoom controls to adjust the scene view.
