@@ -30,6 +30,7 @@
 
 3. Build the project:
       ```bash
+      cd bin
       mingw32-make run
       ```
 
