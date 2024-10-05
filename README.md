@@ -24,7 +24,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/barking-dog-engine.git
+    git clone https://github.com/dragonmainsky/barking-dog-engine.git
     cd barking-dog-engine
     ```
 
